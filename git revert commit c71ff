@@ -1,0 +1,17 @@
+[33mcommit 68441943e70f768056f937c89a1d9417246900b9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Wed Nov 6 00:36:48 2024 -0500
+
+    ahora si agrege la carpeta y el styles.css
+
+[33mcommit c71ff215530bd808b280353ccb43d95cedffa8af[m
+Author: Your Name <you@example.com>
+Date:   Wed Nov 6 00:34:38 2024 -0500
+
+    agrege carpeta css
+
+[33mcommit 09e0047740e758a194c5503660e4d32cf021f751[m
+Author: Your Name <you@example.com>
+Date:   Wed Nov 6 00:22:35 2024 -0500
+
+    agrege main.html
